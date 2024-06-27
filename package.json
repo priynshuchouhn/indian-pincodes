@@ -1,6 +1,6 @@
 {
   "name": "indian-pincodes",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A package to handle Indian pincodes",
   "main": "index.js",
   "scripts": {
@@ -37,5 +37,6 @@
   "bugs": {
     "url": "https://github.com/priynshuchouhn/indian-pincodes/issues"
   },
+  "types": "index.d.ts",
   "homepage": "https://github.com/priynshuchouhn/indian-pincodes#readme"
 }
