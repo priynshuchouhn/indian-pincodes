@@ -1,6 +1,6 @@
 {
-  "name": "indian-pincode",
-  "version": "1.0.0",
+  "name": "indian-pincodes",
+  "version": "1.0.1",
   "description": "A package to handle Indian pincodes",
   "main": "index.js",
   "scripts": {
